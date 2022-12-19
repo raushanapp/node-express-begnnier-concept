@@ -1,0 +1,16 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "Node.js Web Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Raushan Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
